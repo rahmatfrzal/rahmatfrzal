@@ -1,4 +1,4 @@
-[![Facebokm Badge](https://img.shields.io/badge/-Rahmat-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rahmat.id.3950)](https://www.facebook.com/rahmat.id.3950) [![Instagram Badge](https://img.shields.io/badge/-Bcm4D-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bcm4d/)](https://www.instagram.com/bcm4d/)
+[![Facebokm Badge](https://img.shields.io/badge/-Rahmat-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rahmat.id.3950)](https://www.facebook.com/rahmat.id.3950) [![Instagram Badge](https://img.shields.io/badge/-rahmatfrzal-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/rahmatfrzal)](https://www.instagram.com/rahmatfrzal/)
 ## My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Bcm4D alt=Bcm4D /> </p>
 
