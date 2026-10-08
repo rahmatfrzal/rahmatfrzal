@@ -2,7 +2,7 @@
 ## My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Bcm4D alt=Bcm4D /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Bcm4D&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Bcm4D/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=rahmatfrzal&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/rahmatfrzal/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bcm4D&layout=compact&theme=dark&hide_langs_below=1)](https://github.com/Bcm4D/github-readme-stats)
 
 > Keep Connected and Keep Exploit
