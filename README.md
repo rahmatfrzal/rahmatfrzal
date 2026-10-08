@@ -6,4 +6,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatfrzal&layout=compact&theme=dark&hide_langs_below=1)](https://github.com/rahmatfrzal/github-readme-stats)
 
 > Keep Connected and Keep Exploit
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rahmatfrzal&show_icons=true&theme=dark&include_all_commits=true)]
